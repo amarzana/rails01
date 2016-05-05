@@ -1,5 +1,5 @@
 current directory: /home/vagrant/projects/sample_rails_project/vendor/bundle/ruby/2.3.0/gems/therubyracer-0.12.2/ext/v8
-/home/vagrant/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20160503-17328-1jofpta.rb extconf.rb
+/home/vagrant/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20160505-31109-1hsu50z.rb extconf.rb
 checking for main() in -lpthread... yes
 creating Makefile
 
@@ -44,4 +44,4 @@ linking shared-object v8/init.so
 
 current directory: /home/vagrant/projects/sample_rails_project/vendor/bundle/ruby/2.3.0/gems/therubyracer-0.12.2/ext/v8
 make "DESTDIR=" install
-/usr/bin/install -m 0755 init.so ./.gem.20160503-17328-1jknrtr/v8
+/usr/bin/install -m 0755 init.so ./.gem.20160505-31109-1g454zj/v8

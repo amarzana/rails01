@@ -1,5 +1,5 @@
 current directory: /home/vagrant/projects/sample_rails_project/vendor/bundle/ruby/2.3.0/gems/byebug-8.2.5/ext/byebug
-/home/vagrant/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20160503-16669-16rgl3p.rb extconf.rb
+/home/vagrant/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20160504-24969-1vn5cs2.rb extconf.rb
 creating Makefile
 
 current directory: /home/vagrant/projects/sample_rails_project/vendor/bundle/ruby/2.3.0/gems/byebug-8.2.5/ext/byebug
@@ -16,4 +16,4 @@ linking shared-object byebug/byebug.so
 
 current directory: /home/vagrant/projects/sample_rails_project/vendor/bundle/ruby/2.3.0/gems/byebug-8.2.5/ext/byebug
 make "DESTDIR=" install
-/usr/bin/install -m 0755 byebug.so ./.gem.20160503-16669-1tnk5u4/byebug
+/usr/bin/install -m 0755 byebug.so ./.gem.20160504-24969-1h8x4az/byebug
